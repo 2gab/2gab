@@ -4,5 +4,5 @@
 |---|---|---|---|---|---|---|
 
 <p>2gab 我在学习中文。</p>
-<p> :) S2 Thank you freecodecamp! S2 :)</p>
+<p>Thank you freecodecamp!</p>
 </div>
