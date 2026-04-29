@@ -4,5 +4,4 @@
 |---|---|---|---|---|---|---|
 
 <p>2gab</p>
-<p>Thank you freecodecamp!</p>
 </div>
